@@ -7,3 +7,4 @@ pymongo.mongo_client
 plotly.graph_objects
 json
 time
+plotly
